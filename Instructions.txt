@@ -1,0 +1,18 @@
+Installation:
+npm install
+
+Ollama:
+ollama pull tinyllama:1.1b
+ollama pull qwen2.5:3b
+
+MCP Server:
+npm run dev
+
+CLI:
+npm run cli
+
+UI:
+npm run ui
+
+Prompt Poisoning:
+npm run campaign
